@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T08:40:55.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hrZRmbtVQVt1GQEOJ-T-" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T08:42:55.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LZaJ9_pBjfIFKdCa4fLJ" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1806" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,6 +38,11 @@
         <mxCell id="mpOudn4B6TNOrX-mTviS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mpOudn4B6TNOrX-mTviS-7" target="mpOudn4B6TNOrX-mTviS-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="735" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpOudn4B6TNOrX-mTviS-8" value="HIT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mpOudn4B6TNOrX-mTviS-5">
+          <mxGeometry x="-0.1765" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-vmxAGaNy3Ip-F6INyVo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="PNmAnyKzpZwrG4b_xcnc-0" edge="1">
@@ -130,7 +135,16 @@
         <mxCell id="f4p6oUIWA1pbFgIaC3UM-11" value="is it still user&amp;gt;21" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpOudn4B6TNOrX-mTviS-4" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mpOudn4B6TNOrX-mTviS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mpOudn4B6TNOrX-mTviS-4" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="429" y="840" />
+              <mxPoint x="40" y="840" />
+              <mxPoint x="40" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpOudn4B6TNOrX-mTviS-4" value="DRAW ANOTHER CARD&lt;br&gt;ADD TO EXISTING" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="369" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mpOudn4B6TNOrX-mTviS-7" value="HIT or STAND" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
